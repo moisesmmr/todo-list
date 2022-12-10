@@ -1,9 +1,9 @@
 # Ejercicio 3
 
--[ ] Project title
+<p>-[ ] Project title<br>
 -[ ] Description
 -[ ] Getting Started
--[ ] Prerequisites
+<p>-[ ] Prerequisites<br>
 -[ ] Installing
 -[ ] Deployment
 -[ ] Builtd With
